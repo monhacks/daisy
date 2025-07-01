@@ -7018,13 +7018,13 @@ const u8 gMonFootprint_Spectrier[] = INCBIN_U8("graphics/pokemon/spectrier/footp
 const u8 gMonFootprint_Calyrex[] = INCBIN_U8("graphics/pokemon/calyrex/footprint.1bpp");
 
 
-const u32 gMonStillFrontPic_Pucantae[] = INCBIN_U32("graphics/pokemon/Pucantae/front.4bpp.lz");
-const u32 gMonPalette_Pucantae[] = INCBIN_U32("graphics/pokemon/Pucantae/normal.gbapal.lz");
-const u32 gMonBackPic_Pucantae[] = INCBIN_U32("graphics/pokemon/Pucantae/back.4bpp.lz");
-const u32 gMonShinyPalette_Pucantae[] = INCBIN_U32("graphics/pokemon/Pucantae/shiny.gbapal.lz");
-const u8 gMonIcon_Pucantae[] = INCBIN_U8("graphics/pokemon/Pucantae/icon.4bpp");
-const u8 gMonFootprint_Pucantae[] = INCBIN_U8("graphics/pokemon/Pucantae/footprint.1bpp");
-const u32 gMonFrontPic_Pucantae[] = INCBIN_U32("graphics/pokemon/Pucantae/anim_front.4bpp.lz");
+const u32 gMonStillFrontPic_Pucantae[] = INCBIN_U32("graphics/pokemon/pucantae/front.4bpp.lz");
+const u32 gMonPalette_Pucantae[] = INCBIN_U32("graphics/pokemon/pucantae/normal.gbapal.lz");
+const u32 gMonBackPic_Pucantae[] = INCBIN_U32("graphics/pokemon/pucantae/back.4bpp.lz");
+const u32 gMonShinyPalette_Pucantae[] = INCBIN_U32("graphics/pokemon/pucantae/shiny.gbapal.lz");
+const u8 gMonIcon_Pucantae[] = INCBIN_U8("graphics/pokemon/pucantae/icon.4bpp");
+const u8 gMonFootprint_Pucantae[] = INCBIN_U8("graphics/pokemon/pucantae/footprint.1bpp");
+const u32 gMonFrontPic_Pucantae[] = INCBIN_U32("graphics/pokemon/pucantae/anim_front.4bpp.lz");
 
 //const u8 gMonFootprint_Wyrdeer[] = INCBIN_U8("graphics/pokemon/wyrdeer/footprint.1bpp");
 //const u8 gMonFootprint_Kleavor[] = INCBIN_U8("graphics/pokemon/kleavor/footprint.1bpp");

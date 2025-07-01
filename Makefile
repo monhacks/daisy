@@ -159,7 +159,7 @@ infoshell = $(foreach line, $(shell $1 | sed "s/ /__SPACE__/g"), $(info $(subst 
 # Use a separate minimal makefile for speed
 # Since we don't need to reload most of this makefile
 ifeq (,$(filter-out all rom compare modern libagbsyscall syms,$(MAKECMDGOALS)))
-$(call infoshell, $(MAKE) -f make_tools.mk)
+$(call infoshell, $(MAKE) -f tools.mk)
 else
 NODEP ?= 1
 endif
